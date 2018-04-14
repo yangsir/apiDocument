@@ -1,5 +1,5 @@
 # API 接口文档
-web版简易在线API接口文档
+web版简易在线API接口文档(基于bootstrap)
 
 
 ## Description
@@ -12,7 +12,7 @@ HTML/JS
 
 ## Supporting the project
 > alipay
-![alipay](http://www.webyang.net/Public/images/zfbqrcode.png)
+![alipay](http://www.webyang.net/Public/index/img/zfbqrcode_new.png)
 > wechat
 ![wechat](http://www.webyang.net/Public/images/wxzf.jpg)
 
